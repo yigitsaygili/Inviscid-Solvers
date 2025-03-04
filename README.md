@@ -6,6 +6,6 @@ An application of finite difference approximation of a two-dimensional, steady l
 
 ![bl_img](https://github.com/user-attachments/assets/c4eccacf-5dd1-4790-aa2f-a051838dd68f)
 
-For comparison with Blasius solution we can investigate the table below. In the table we consider dimensionlesslength parameter 𝜂 and first derivative of 𝑓′ which is proportional to the x-component of velocity in the boundary layer (𝑓 = 𝑢/𝑈𝑒).
+For comparison with Blasius solution we can investigate the table below. In the table we consider dimensionless length parameter 𝜂 and first derivative of 𝑓′ which is proportional to the x-component of velocity in the boundary layer (𝑓 = 𝑢/𝑈𝑒).
 
 ![blasius_img](https://github.com/user-attachments/assets/d9abfc7c-d52d-41d7-aec6-674841b4f83d)
