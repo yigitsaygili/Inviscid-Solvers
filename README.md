@@ -9,3 +9,7 @@ An application of finite difference approximation of a two-dimensional, steady l
 For comparison with Blasius solution we can investigate the table below. In the table we consider dimensionless length parameter 𝜂 and first derivative of 𝑓′ which is proportional to the x-component of velocity in the boundary layer (𝑓 = 𝑢/𝑈𝑒).
 
 ![blasius_img](https://github.com/user-attachments/assets/d9abfc7c-d52d-41d7-aec6-674841b4f83d)
+
+
+## Source Panel Method for Cyllinder
+The Source Panel Method is a computational technique used in aerodynamic analysis to model the flow over objects, such as a cylinder. It involves discretizing the surface of the cylinder into a series of panels, each of which is assigned a source strength. By solving the resulting system of equations, the method approximates the velocity field around the cylinder, allowing for the calculation of aerodynamic parameters like lift and drag. This approach is particularly useful for simulating potential flow around objects in inviscid, incompressible fluid dynamics, providing a simplified yet effective way to analyze flow behavior.
