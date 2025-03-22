@@ -10,12 +10,18 @@ For comparison with Blasius solution we can investigate the table below. In the 
 
 ![blasius_img](https://github.com/user-attachments/assets/d9abfc7c-d52d-41d7-aec6-674841b4f83d)
 
-
 ## Source Panel Method for Cyclinder
 The Source Panel Method is a computational technique used in aerodynamic analysis to model the flow over objects, such as a cylinder. It involves discretizing the surface of the cylinder into a series of panels, each of which is assigned a source strength. By solving the resulting system of equations, the method approximates the velocity field around the cylinder, allowing for the calculation of aerodynamic parameters like lift and drag. This approach is particularly useful for simulating potential flow around objects in inviscid, incompressible fluid dynamics, providing a simplified yet effective way to analyze flow behavior.
+
+![spm_1](https://github.com/user-attachments/assets/105f1c32-1928-47ae-8967-b0ef6ff4b1c2)
 
 ## Hess Panel Method for Airfoils
 The Hess Panel Method is a numerical technique used in aerodynamic analysis to solve potential flow problems around complex shapes, such as airfoils or bodies of arbitrary geometry. It discretizes the surface of the object into panels and assigns a constant source or sink strength to each panel. By solving the governing Laplace equation for the velocity potential, the method calculates the flow field around the object, allowing for the determination of aerodynamic forces like lift and drag. The Hess Panel Method is widely used for its efficiency in simulating inviscid, incompressible flows and its ability to handle complex geometries with relatively low computational cost.
 
+![hpm_1](https://github.com/user-attachments/assets/2dd3e27d-3c70-4c58-a47b-742c5fcc53d7)
+
 ## Thin Airfoil Theory
 Thin Airfoil Theory is a simplified aerodynamic analysis method used to estimate the lift coefficient of an airfoil at small angles of attack. It assumes that the airfoil is thin and that the flow remains attached to the surface, neglecting viscous effects. Based on potential flow theory, the method calculates the circulation around the airfoil and relates it to the lift generated. Thin Airfoil Theory is particularly useful for predicting the aerodynamic performance of symmetric airfoils at subsonic speeds, providing a foundational understanding of airfoil lift characteristics in idealized conditions.
+
+![tat_1](https://github.com/user-attachments/assets/b23752b3-f279-408c-9a48-32389ef18260)
+
